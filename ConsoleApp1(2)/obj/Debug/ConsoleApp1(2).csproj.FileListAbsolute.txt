@@ -1,0 +1,7 @@
+D:\Основы наследования\ConsoleApp1(2)\bin\Debug\ConsoleApp1(2).exe.config
+D:\Основы наследования\ConsoleApp1(2)\bin\Debug\ConsoleApp1(2).exe
+D:\Основы наследования\ConsoleApp1(2)\bin\Debug\ConsoleApp1(2).pdb
+D:\Основы наследования\ConsoleApp1(2)\obj\Debug\ConsoleApp1(2).csproj.AssemblyReference.cache
+D:\Основы наследования\ConsoleApp1(2)\obj\Debug\ConsoleApp1(2).csproj.CoreCompileInputs.cache
+D:\Основы наследования\ConsoleApp1(2)\obj\Debug\ConsoleApp1(2).exe
+D:\Основы наследования\ConsoleApp1(2)\obj\Debug\ConsoleApp1(2).pdb
